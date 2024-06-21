@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "717308938830",
+    "project_id": "tictacgame-a5ff2",
+    "storage_bucket": "tictacgame-a5ff2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717308938830:android:77485ef18066e662a4911f",
+        "android_client_info": {
+          "package_name": "com.example.tictacgame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvIOymvK0cVfaF819BZlXhhd1no8qb2ts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
